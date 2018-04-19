@@ -1,0 +1,1 @@
+Building a google search results page. A little bit more difficult than building the google homepage, therefore more html and css skills are required. 

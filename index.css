@@ -1,0 +1,36 @@
+body {
+	margin:0;
+	padding: 0;
+}
+
+.google {
+	width: 120px;
+	height: 44px;
+	padding-left: 13px;
+	margin-top: 2px;
+}
+
+.topfooter1 {
+	display: flex;
+	background-color: #FAFAFA;
+	margin:0;
+}
+
+.search {
+	border:0.5px solid #EAEAEA;
+	width: 390px;
+	height: 30px;
+	box-shadow: 0px 1.5px 3px 1px #CBCBCB;
+}
+
+.search-inner {
+	border: 2px solid black;
+	background-color: #FFFFFF;
+	z-index: 1;
+	
+	width: 330px;
+	height: 28px;
+	top: 275px;
+	left: 405px;
+	
+}
