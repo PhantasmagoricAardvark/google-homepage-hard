@@ -1,36 +1,107 @@
 body {
 	margin:0;
 	padding: 0;
+	font-family: arial,sans-serif;
+
 }
 
 .google {
 	width: 120px;
 	height: 44px;
 	padding-left: 13px;
-	margin-top: 2px;
+	padding-right: 12px;
+	padding-top: 20px;
+
 }
 
 .topfooter1 {
 	display: flex;
 	background-color: #FAFAFA;
 	margin:0;
+	padding-bottom: 56px;
+	border-bottom: 1px solid #E4E4E4;
 }
 
 .search {
 	border:0.5px solid #EAEAEA;
-	width: 390px;
-	height: 30px;
+	width: 632px;
+	height: 44px;
 	box-shadow: 0px 1.5px 3px 1px #CBCBCB;
+	margin-top: 20px;
+	background-color: #FFFFFF;
 }
 
 .search-inner {
 	border: 2px solid black;
 	background-color: #FFFFFF;
-	z-index: 1;
-	
+	z-index: 1;	
 	width: 330px;
 	height: 28px;
-	top: 275px;
-	left: 405px;
-	
+	top: 30px;
+	left: 150px;
+	position: absolute;	
+	font: 16px arial,sans-serif;
 }
+
+.kirjaudu {
+	background-color: #4683EA;
+	margin-left: 5px;
+	position: absolute;
+	right: 20px;
+	padding: 10px;
+	width: 99px; 
+	margin-top: 20px;
+}
+
+.kirjaudu a {
+	list-style-type: none;
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 13px;
+	font-family: arial,sans-serif;
+}
+
+.firstnav {	 
+	list-style-type: none;
+	margin: 0;
+	margin-left: 150px;
+ 	margin-top: 89px;
+  	padding: 0;
+  	position: absolute; 
+}
+
+.firstnav li {
+	display: inline-flex;
+
+}
+
+.firstnav a {
+	text-decoration: none;
+	color: #7F7F7F;
+	font-size: 13px;
+}
+
+#kaikki {
+	border-bottom: 3px solid #1A73E8;
+	color: #1A73E8;
+	font-weight: bold;
+	height: 15px;
+	width: 38px;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-bottom: 11px;
+	line-height: 12px;
+}
+
+.muut {
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+#asetukset {
+	padding-right: 25px;
+	padding-left: 140px;
+}
+
+
