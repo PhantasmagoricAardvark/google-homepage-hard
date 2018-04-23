@@ -169,15 +169,62 @@ cite {
 }
 
 .block3 {
-	margin-top: 15px;
+	margin-top: 20px;
 }
 
 .block4 {
-	margin-top: 15px;
+	margin-top: 26px;
 }
 
 .blocklinks {
 	text-decoration: none;
 	font-size: small;
 	color: #1a0dab; 
+}
+
+.block5 {
+	margin-top: 26px;
+}
+
+.block6 {
+	margin-top: 26px;
+}
+
+.block7 {
+	margin-top: 26px;
+}
+
+.block8 {
+	margin-top: 26px;
+}
+
+.block9 {
+	margin-top: 26px;
+}
+
+
+
+
+.vidblock1 {
+	margin-top: 26px;
+}
+
+
+.img1 {
+	width: 116px;
+	height: 87px;
+	margin-top: -11px;
+}
+
+.crop {
+	height: 68px;
+	display: inline-block;
+	overflow: hidden;
+	margin-top: 2px;
+}
+
+.vidcite {
+	position: absolute;
+	margin-left: 6px;
+	margin-top: 3px;
 }
