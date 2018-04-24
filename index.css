@@ -228,3 +228,71 @@ cite {
 	margin-left: 6px;
 	margin-top: 3px;
 }
+
+.viddatespan {
+	position: absolute;
+	margin-left: 6px;
+	margin-top: 20px;
+}
+
+.vidpara {
+	font-size: small;
+	color: #545454;
+	position: absolute;
+	margin-top: 34px;
+	margin-left: 6px;
+}
+
+.finalblock {
+	margin-top: 26px;
+}
+
+.aiheeseen {
+	font-size: 18px;
+	color: #222;
+}
+
+
+
+.botlist {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	margin-top: 16px;
+	
+	
+}
+
+.botlist li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#botlista {
+	text-decoration: none;
+	font-weight: bold;
+	color: #1a0dab;
+	font-size: 14px;
+
+}
+
+.botlistright {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	bottom: 108px;
+	left: 250px;
+	position: relative; 
+}
+
+.botlistright li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
+.botfooter {
+	background-color: #f2f2f2;
+	height: 83px;
+}
